@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UnitControls.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DrawLine.cs" Line="29" Column="145" />
+      <File FileName="Assets\Scripts\DrawGrid.cs" Line="34" Column="80" />
+      <File FileName="Assets\Scripts\Console.cs" Line="30" Column="1" />
+      <File FileName="Assets\Scripts\CameraControl.cs" Line="58" Column="5" />
+      <File FileName="Assets\Scripts\UnitManager.cs" Line="28" Column="2" />
+      <File FileName="Assets\Scripts\UnitControls.cs" Line="58" Column="26" />
+      <File FileName="Assets\Scripts\DrawCircle.cs" Line="32" Column="23" />
+      <File FileName="Assets\Scripts\MovePlaneOverlay.cs" Line="51" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
